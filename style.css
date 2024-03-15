@@ -1,0 +1,25 @@
+
+.container {
+    width: 400px;
+   margin: 100px;
+}
+h2 {
+    margin: 100px;  
+}
+form {
+    background-color: khaki;
+    padding: 25px;
+    width: 100%;
+}
+button{
+    width: 100%;
+}
+button {
+    background-color: chocolate;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+input.error{
+    border: 2px solid #b11a1a;
+}
